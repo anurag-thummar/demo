@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Techvio/static/css/main.be4ed63b.css",
-    "main.js": "/Techvio/static/js/main.35732ee5.js",
+    "main.css": "/Techvio/static/css/main.4eb8e04e.css",
+    "main.js": "/Techvio/static/js/main.ebe8ba74.js",
     "static/media/banner-bg.jpg": "/Techvio/static/media/banner-bg.087aef4f0277e94c4e14.jpg",
     "static/media/page-title-bg.jpg": "/Techvio/static/media/page-title-bg.f0eb0d062f3fc56a5c9a.jpg",
     "static/media/dot-bg.png": "/Techvio/static/media/dot-bg.9475ada062bd1a7b2098.png",
@@ -11,11 +11,11 @@
     "static/media/home-3-bg.jpg": "/Techvio/static/media/home-3-bg.b4a5efd5f71004aba824.jpg",
     "static/media/1.jpg": "/Techvio/static/media/1.f300d1c7a8f701583666.jpg",
     "index.html": "/Techvio/index.html",
-    "main.be4ed63b.css.map": "/Techvio/static/css/main.be4ed63b.css.map",
-    "main.35732ee5.js.map": "/Techvio/static/js/main.35732ee5.js.map"
+    "main.4eb8e04e.css.map": "/Techvio/static/css/main.4eb8e04e.css.map",
+    "main.ebe8ba74.js.map": "/Techvio/static/js/main.ebe8ba74.js.map"
   },
   "entrypoints": [
-    "static/css/main.be4ed63b.css",
-    "static/js/main.35732ee5.js"
+    "static/css/main.4eb8e04e.css",
+    "static/js/main.ebe8ba74.js"
   ]
 }
