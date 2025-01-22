@@ -2,7 +2,7 @@
   position: fixed;
   width: 100%;
   height: 100%;
-  /* position: relative; */
+  z-index: 999;
 }
 
 #loaderSlide::before {
@@ -14,15 +14,6 @@
   display: block;
   top: 0;
   left: 0;
-  animation: slideLeft 2s forwards;
-}
-
-@keyframes slideLeft {
-  0% {
-  }
-  100% {
-    width: 0;
-  }
 }
 
 #loaderSlide::after {
@@ -34,15 +25,7 @@
   display: block;
   top: 0;
   right: 0;
-  animation: slideRight 2s forwards;
-}
-
-@keyframes slideRight {
-  0% {
-  }
-  100% {
-    width: 0;
-  }
+  animation: slideRight 5s forwards;
 }
 
 #loader {
